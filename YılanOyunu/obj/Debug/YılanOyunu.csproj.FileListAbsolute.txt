@@ -1,0 +1,10 @@
+C:\Users\Merve\source\repos\YılanOyunu\YılanOyunu\bin\Debug\YılanOyunu.exe.config
+C:\Users\Merve\source\repos\YılanOyunu\YılanOyunu\bin\Debug\YılanOyunu.exe
+C:\Users\Merve\source\repos\YılanOyunu\YılanOyunu\bin\Debug\YılanOyunu.pdb
+C:\Users\Merve\source\repos\YılanOyunu\YılanOyunu\obj\Debug\YılanOyunu.csproj.AssemblyReference.cache
+C:\Users\Merve\source\repos\YılanOyunu\YılanOyunu\obj\Debug\YılanOyunu.Form1.resources
+C:\Users\Merve\source\repos\YılanOyunu\YılanOyunu\obj\Debug\YılanOyunu.Properties.Resources.resources
+C:\Users\Merve\source\repos\YılanOyunu\YılanOyunu\obj\Debug\YılanOyunu.csproj.GenerateResource.cache
+C:\Users\Merve\source\repos\YılanOyunu\YılanOyunu\obj\Debug\YılanOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Merve\source\repos\YılanOyunu\YılanOyunu\obj\Debug\YılanOyunu.exe
+C:\Users\Merve\source\repos\YılanOyunu\YılanOyunu\obj\Debug\YılanOyunu.pdb
